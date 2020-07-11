@@ -316,7 +316,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   homeScreenMemoryTitle: {
-    color: '#228B22',
+    color: '#5abcdb',
     fontWeight: 'bold',
   },
   homeScreenScoreLevelContainer: {
